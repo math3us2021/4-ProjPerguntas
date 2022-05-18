@@ -1,0 +1,17 @@
+h1{
+    color: black;
+    text-align:center
+
+}
+p{
+    background-color: #e1e1ea
+}
+body{
+    background-color: #c6dedf
+}
+#formulario-pergunta{
+    margin-top: 5vh;
+}
+#navbar{
+    background-color: #3898f1
+}
